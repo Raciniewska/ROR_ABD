@@ -1,5 +1,16 @@
 # README
 
+#URUCHOMIENie
+docker-compose build
+docker-compose up
+
+uruchomienie bazy wyklad przygotoqwanie srodowiska
+
+otworzenie schematu na dzilajacej bazie
+rajke db:shema:load
+
+dalej intrukcja wykład 7
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
